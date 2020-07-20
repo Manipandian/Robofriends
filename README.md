@@ -1,7 +1,16 @@
-# robofriends
-Tutorial for udemy course - React
-To run the project:
+# Robofriends with redux
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+A React script which is user to visulaize list of users data as a card
+All states of app has been managed using redux(In the comments you can find he normla ways too)
+
+# Installation
+
+- Clone this branch
+- Run `npm install` in your root folder
+- Run `npm start`
+- Visit http://localhost:3000/ in your browser
+
+# Author
+
+**ManiPandian** - (https://github.com/Manipandian)
+
